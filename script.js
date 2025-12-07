@@ -1,3 +1,5 @@
-fuction fuctionName(){
-	alert(functionName.name);
+function functionName() {
+  alert("functionName");
 }
+
+window.functionName = functionName;
